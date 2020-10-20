@@ -3,7 +3,7 @@ templateKey: index-page
 title: Fenitial Fabrications
 image: /img/home-jumbotron.jpg
 heading: Fenitial Fabrications
-subheading: Support sustainable farming while enjoying a cup
+subheading: Quality Fabrication at Scale
 mainpitch:
   title: Why Kaldi
   description: >
