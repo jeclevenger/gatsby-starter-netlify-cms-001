@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Fenitial Fabrications
-image: /img/home-jumbotron.jpg
+image: /img/IMG_2202.jpg
 heading: Fenitial Fabrications
 subheading: Quality Fabrication at Scale
 mainpitch:
