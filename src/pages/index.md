@@ -5,17 +5,14 @@ image: /img/IMG_2202.jpg
 heading: Fenitial Fabrications
 subheading: Quality Fabrication at Scale
 mainpitch:
-  title: Why Kaldi
+  title: We Turn Your Concepts Into Reality!
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are a start-up fabrication company focused on providing quality at scale 
+    through agile production runs. Starting with CAD we outline an optimzied 
+    production process per contract. We also provide prototyping and engineering
+    support once a contract is in place. Request for Quote through our Contact forms.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Over 25 years of Experience and Resources in Engineering, Welding, and Automotive. 
 intro:
   blurbs:
     - image: /img/coffee.png
